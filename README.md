@@ -42,7 +42,7 @@ To make it fun, the program displays an ASCII art **coffee logo** when serving d
 
 ## 📂 File Structure
 - `15_COFFEE_MACHINE.py` → Main program file.
-- `Menu` → Contains coffee recipes (name, price, resource requirements).
+- `COFFEE_MACHINE_MENU_and_ART` → Contains coffee recipes (name, price, resource requirements).
 - `README.md` → Project summary and instructions.
 
 ---
